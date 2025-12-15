@@ -80,11 +80,6 @@ scikit-image
 
 kagglehub
 
-Para ejecutarlo, asegúrate de instalar las dependencias:
-
-Bash
-
-pip install tensorflow numpy pandas matplotlib pillow scikit-learn scikit-image kagglehub
 
 # Autores
 Rodrigo Mendoza Rodríguez - 192462-2
